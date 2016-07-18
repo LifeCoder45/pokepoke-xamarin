@@ -21,6 +21,6 @@ It was originally a Pokémon detection app for Pokémon GO, but it was Suspended
 
 Originally [here on Reddit](https://www.reddit.com/r/pokemongo/comments/4taed4/i_skipped_sleep_and_countless_pidgeys_this_week/).
 
-If you want to buy the new app, you can on the [Play Store](play.google.com/apps?id=me.joshoneal.megaamp).
+If you want to buy the new app, you can on the [Play Store](https://play.google.com/store/apps/details?id=me.joshoneal.megaamp).
 
 Enjoy!
