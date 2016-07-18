@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <!-- page titles -->
+  <string name="app_name">MegaAmp!</string>
+	<string name="widget_title">AmpIt!</string>
+  <string name="help_title">Help / About</string>
+  <!-- notification strings-->
+  <string name="notification_title">ALERT!</string>
+  <string name="notification_text">A vibration was detected!</string>
+  <!-- background service alerts-->
+  <string name="alert_service_enabled">MegaAmp! enabled</string>
+  <string name="alert_service_disabled">MegaAmp! disabled</string>
+  <!-- menu items -->
+  <string name="menu_item_help">Help</string>
+  <!-- help content -->
+  <string name="help_content">How does MegaAmp! work?\n\n• By detecting your device\'s vibration state, we can proxy a local alert to you anytime an open application sends a notification. This notification naturally pushes to your Android Wear device, if paired, giving you a nice, aggressive alert.</string>
+  <!-- splash -->
+  <string name="splash_instructions">1) Long press your home screen and install the MegaAmp! widget.\n\n2) Go into the settings of your favorite apps and enable “Vibration,” if applicable (most apps will auto-enable this).\n\n3) Tap the MegaAmp! widget to enable aggressive notifications anytime you\'d like!</string>
+</resources>
